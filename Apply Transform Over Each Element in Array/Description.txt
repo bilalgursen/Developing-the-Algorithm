@@ -1,0 +1,1 @@
+LİNK=https://leetcode.com/problems/apply-transform-over-each-element-in-array/solutions/5893380/5-bilalgursen
